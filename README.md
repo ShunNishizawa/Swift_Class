@@ -31,5 +31,3 @@ convenience init(仮引数) {
 	~
 }
 ```
-
-/Users/nishizawashun/Library/Mobile Documents/com~apple~CloudDocs
